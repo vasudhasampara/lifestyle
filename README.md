@@ -1,6 +1,6 @@
 # lifestyle
 
-#  lifestyle  #
+#  Fashion Store  #
 
 This is a web based application developed for fashion related website in india 
  
