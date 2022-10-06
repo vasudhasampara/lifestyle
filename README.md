@@ -8,7 +8,7 @@ This is a web based application developed for fashion related website in india
 
 ** Project Link **
 
-https://wordpress.com/post/lifestyles493929571.wordpress.com/59
+https://wordpress.com/view/lifestyles493929571.wordpress.com
 
 ## Features and Functionalities ##
 
