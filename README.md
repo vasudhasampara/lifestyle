@@ -31,7 +31,7 @@ https://wordpress.com/post/lifestyles493929571.wordpress.com/59
 ## privacy policy
 
 ![image](https://user-images.githubusercontent.com/114405233/194226702-b617ab07-2dd2-42a5-8f0b-232b5dad8291.png)
-![image](https://user-images.githubusercontent.com/114405233/194226797-ae8cc48c-b466-4109-8c82-c788595571a2.png)
+
 
 ## Tech stack ##
 
