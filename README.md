@@ -37,6 +37,4 @@ https://lifestyles493929571.wordpress.com/
 
 - azure (hosting)
 - HTML
-- CSS
-- Bootstrap
 - JavaScript
